@@ -1,0 +1,23 @@
+{
+  "name": "nexpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keegoo/nexpress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keegoo/nexpress/issues"
+  },
+  "homepage": "https://github.com/keegoo/nexpress#readme",
+  "dependencies": {
+    "array-flatten": "^2.1.1"
+  }
+}
